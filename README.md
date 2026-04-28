@@ -253,10 +253,4 @@ Built using:
 - Ollama
 - RAGAS
  
----
- 
-🧠 Ragnar Philosophy
- 
-«“Don’t just retrieve information — reason, verify, and improve.”»
- 
----
+
